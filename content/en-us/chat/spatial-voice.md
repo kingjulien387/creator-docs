@@ -37,7 +37,7 @@ To set the maximum number of users:
 1. In the left-hand navigation of the **Game Settings** dialog, select **Places**. Every place within your experience displays.
 2. Click the **&ctdot;** button next to the place with more than 50 players, then select **Edit**.
 3. In the **Max Players** field, type in any number **equal to or less than 50**.
-4. Click the **Save** button.
+4. Click the ***Save*** button.
 
 When you update the maximum number of users in a place to fewer than 50, there may be servers already configured to a different, higher number. As those servers won't support chat with spatial voice, it is recommended to [restart your servers](../production/publishing/publishing-experiences-and-places.md#restarting-servers).
 
